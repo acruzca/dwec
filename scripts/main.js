@@ -1,5 +1,5 @@
 "use strict";
 
 const saludar = () => {
-    alert("Hola mundo desde DWEC");
+     console.log("Hola mundo");
 }

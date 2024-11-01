@@ -1,0 +1,2 @@
+#Descartamos todos los archivos de node.js
+node_modules/*

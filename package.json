@@ -1,0 +1,25 @@
+{
+  "name": "dwec",
+  "version": "1.0.0",
+  "description": "Ejercicio DWEC01",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/acruzca/dwec.git"
+  },
+  "author": "Antonio Cruz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/acruzca/dwec/issues"
+  },
+  "homepage": "https://github.com/acruzca/dwec#readme",
+  "devDependencies": {
+    "@eslint/js": "^9.13.0",
+    "eslint": "^9.13.0",
+    "eslint-plugin-compat": "^6.0.1",
+    "globals": "^15.11.0"
+  }
+}
